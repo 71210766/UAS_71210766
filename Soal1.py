@@ -1,0 +1,35 @@
+
+print("==============================================")
+print("*************** Justice League ***************")
+print("==============================================")
+nama = input("Masukkan username anda : ")
+
+if "nama == brucewyne" :
+    print("===== WELCOME brucewyne =====")
+    print("1. Tambahkan Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("Tampilkan Anggota Justice League")
+    print("4. Exit")
+    a = input("Masukkan pilihan anda : ")
+    b = input("Nama Anggota baru : ")
+    print("data berhasil ditambah")
+elif "nama == victorstone" :
+    print("===== WELCOME victorstone =====")
+    print("1. Tambahkan Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("Tampilkan Anggota Justice League")
+    print("4. Exit")
+    a = input("Masukkan pilihan anda : ")
+    b = input("Nama Anggota baru : ")
+    print("data berhasil ditambah")
+elif "nama == ciscoramon":
+    print("===== WELCOME ciscoramon =====")
+    print("1. Tambahkan Anggota Justice League")
+    print("2. Hapus Anggota Justice League")
+    print("Tampilkan Anggota Justice League")
+    print("4. Exit")
+    a = input("Masukkan pilihan anda : ")
+    b = input("Nama Anggota baru : ")
+    print("data berhasil ditambah")
+else: 
+    print("Access Danied")
